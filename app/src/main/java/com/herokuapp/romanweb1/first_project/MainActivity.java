@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
     }
-
+//lisetner
     @Override
     public void onClick(View v) {
         TextView  text = findViewById(R.id.text);
