@@ -12,6 +12,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     String b,d;
+    int text; 
     double a , c=0,s,plusi =0, minusi =0, dividei=0,multipi=0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
