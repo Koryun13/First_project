@@ -159,7 +159,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                dividei++;
 
                 break;
- 
+
            case R.id.equally:
                if(plusi !=0 ){
                    s  =c+a ;
